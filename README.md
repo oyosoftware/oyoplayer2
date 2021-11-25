@@ -20,6 +20,7 @@
 <ul>
   <li>Self styled components from the other repositories</li>
   <li>These repositories are: oyobuttons, oyoslider and oyomarquee.</li>
+  <li>Has extra buttons for skip previous and skip next.</li>
 </ul>
 <h2>Contact</h2>
 <ul>
