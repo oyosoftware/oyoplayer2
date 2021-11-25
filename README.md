@@ -18,7 +18,7 @@
 <p>jQuery audio player.</p>
 <h3>Features</h3>
 <ul>
-  <li>Self styled components from the other repositories</li>
+  <li>Self styled components from the other repositories.</li>
   <li>These repositories are: oyobuttons, oyoslider and oyomarquee.</li>
   <li>Has extra buttons for skip previous and skip next.</li>
 </ul>
