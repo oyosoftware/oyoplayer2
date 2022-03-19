@@ -1,5 +1,5 @@
 # oyoplayer2
-<a href="http://oyoweb.nl/music/plugins/oyoplayer/testplayer2.html" target="_blank">
+<a href="http://oyosoftware.nl/plugins/oyoplayer/testplayer2.html" target="_blank">
   <img src="http://oyosoftware.nl/plugins/oyoplayer/oyoplayer2.jpg" alt="oyobuttons">
 </a>
 <p>Audio Player</p>
@@ -11,7 +11,7 @@
   <li><strong>category</strong> multimedia</li>
   <li><strong>copyright</strong> 2015-2021 oyosoftware </li>
   <li><strong>license</strong> MIT License</li>
-  <li><strong>link</strong> http://www.oyoweb.nl/music/plugins/oyoplayer/testplayer2.html</li>
+  <li><strong>link</strong> http://www.oyosoftware.nl/plugins/oyoplayer/testplayer2.html</li>
   <li><strong>source</strong> https://github.com/oyosoftware/oyoplayer2</li>
 </ul>
 <h2>Description</h2>
